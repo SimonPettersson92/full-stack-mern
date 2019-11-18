@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-An installation of node.js is needed to run the application. Node.js can be found at
+Clone the repository and download locally. An installation of node.js is needed to run the application. Node.js can be found at
 
 ```
 https://nodejs.org/en/download/
@@ -24,13 +24,13 @@ With node.js installed and the database set up run
 npm install
 ```
 
-to install all dependencies. Then run
+in root folder to install all dependencies. Then run
 
 ```
 npm start
 ```
 
-to run the application locally.
+in root folder to run the application locally.
 
 ### Preview
 
